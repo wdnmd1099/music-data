@@ -1,31 +1,31 @@
 [ 
 {
-    "id": "0",
+    "id": "1",
     "title": "带我去找夜生活",
     "author": "告五人",
     "lyric": "https://karr.top/music-data/music-data/mp3/%E5%B8%A6%E6%88%91%E5%8E%BB%E6%89%BE%E5%A4%9C%E7%94%9F%E6%B4%BB.txt",
     "url": "https://karr.top/music-data/music-data/mp3/%E5%B8%A6%E6%88%91%E5%8E%BB%E6%89%BE%E5%A4%9C%E7%94%9F%E6%B4%BB.mp3"
 },
 {
-    "id": "0",
+    "id": "2",
     "title": "晴天",
     "author": "周杰伦",
     "lyric": "https://karr.top/music-data/music-data/mp3/%E6%99%B4%E5%A4%A9.txt",
     "url": "https://karr.top/music-data/music-data/mp3/%E6%99%B4%E5%A4%A9.mp3"
 },
 {
-    "id": "0",
-    "title": "真的吗",
-    "author": "莫文蔚",
-    "lyric": "https://jirengu.github.io/data-mock/huawei-music/lyric_真的吗.json",
-    "url": "https://jirengu.github.io/data-mock/huawei-music/莫文蔚-真的吗.mp3"
+    "id": "3",
+    "title": "真的爱你",
+    "author": "Beyond",
+    "lyric": "https://karr.top/music-data/music-data/mp3/%E7%9C%9F%E7%9A%84%E7%88%B1%E4%BD%A0.txt",
+    "url": "https://karr.top/music-data/music-data/mp3/%E7%9C%9F%E7%9A%84%E7%88%B1%E4%BD%A0.mp3"
 },
 {
-    "id": "0",
-    "title": "真的吗",
-    "author": "莫文蔚",
-    "lyric": "https://jirengu.github.io/data-mock/huawei-music/lyric_真的吗.json",
-    "url": "https://jirengu.github.io/data-mock/huawei-music/莫文蔚-真的吗.mp3"
+    "id": "4",
+    "title": "不吐不快",
+    "author": "张敬轩",
+    "lyric": "https://karr.top/music-data/music-data/mp3/%E4%B8%8D%E5%90%90%E4%B8%8D%E5%BF%AB.txt",
+    "url": "https://karr.top/music-data/music-data/mp3/%E4%B8%8D%E5%90%90%E4%B8%8D%E5%BF%AB.mp3"
 }
 
 
