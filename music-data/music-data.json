@@ -1,17 +1,18 @@
 [ 
+
 {
     "id": "1",
-    "title": "带我去找夜生活",
-    "author": "告五人",
-    "lyric": "https://karr.top/music-data/music-data/mp3/%E5%B8%A6%E6%88%91%E5%8E%BB%E6%89%BE%E5%A4%9C%E7%94%9F%E6%B4%BB.txt",
-    "url": "https://karr.top/music-data/music-data/mp3/%E5%91%8A%E4%BA%94%E4%BA%BA%20-%20%E5%B8%A6%E6%88%91%E5%8E%BB%E6%89%BE%E5%A4%9C%E7%94%9F%E6%B4%BB.mp3"
-},
-{
-    "id": "2",
     "title": "晴天",
     "author": "周杰伦",
     "lyric": "https://karr.top/music-data/music-data/mp3/%E6%99%B4%E5%A4%A9.txt",
     "url": "https://karr.top/music-data/music-data/mp3/%E5%91%A8%E6%9D%B0%E4%BC%A6%20-%20%E6%99%B4%E5%A4%A9.mp3"
+},
+{
+    "id": "2",
+    "title": "带我去找夜生活",
+    "author": "告五人",
+    "lyric": "https://karr.top/music-data/music-data/mp3/%E5%B8%A6%E6%88%91%E5%8E%BB%E6%89%BE%E5%A4%9C%E7%94%9F%E6%B4%BB.txt",
+    "url": "https://karr.top/music-data/music-data/mp3/%E5%91%8A%E4%BA%94%E4%BA%BA%20-%20%E5%B8%A6%E6%88%91%E5%8E%BB%E6%89%BE%E5%A4%9C%E7%94%9F%E6%B4%BB.mp3"
 },
 {
     "id": "3",
